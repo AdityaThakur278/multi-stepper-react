@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-stepper-react/static/css/main.0466abb1.css",
+    "main.js": "/multi-stepper-react/static/js/main.d09c1342.js",
+    "index.html": "/multi-stepper-react/index.html",
+    "main.0466abb1.css.map": "/multi-stepper-react/static/css/main.0466abb1.css.map",
+    "main.d09c1342.js.map": "/multi-stepper-react/static/js/main.d09c1342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0466abb1.css",
+    "static/js/main.d09c1342.js"
+  ]
+}
